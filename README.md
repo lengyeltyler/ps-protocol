@@ -42,9 +42,9 @@ phil-scale-protocol/
 
 ## Development Roadmap
 
-- **Phase 1** (Q4 2025): Core contracts, basic Phil creation
-- **Phase 2** (Q1 2026): ZK asset discovery, cross-chain execution  
-- **Phase 3** (Q2 2026): Advanced privacy features, ecosystem growth
+- **Phase 1** : Core contracts, basic Phil creation
+- **Phase 2** : ZK asset discovery, cross-chain execution  
+- **Phase 3** : Advanced privacy features, ecosystem growth
 
 ## Contributing
 
