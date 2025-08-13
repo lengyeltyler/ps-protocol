@@ -1,0 +1,29 @@
+{
+  "name": "ps-protocol",
+  "version": "1.0.0",
+  "description": "**Secure, Confidential, Autonomous Ledger Environment**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lengyeltyler/ps-protocol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lengyeltyler/ps-protocol/issues"
+  },
+  "homepage": "https://github.com/lengyeltyler/ps-protocol#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.3"
+  }
+}

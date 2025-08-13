@@ -62,12 +62,6 @@ CC0 1.0 Universal (Public Domain) - See [LICENSE](./LICENSE) for details
 
 This work is dedicated to the public domain. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-## Links
-
-- Website: *Coming soon*
-- Twitter: *Coming soon*  
-- Discord: *Coming soon*
-
 ---
 
 *"Your Phil, Your Rules, Your Privacy"*
