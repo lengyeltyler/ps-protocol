@@ -4,23 +4,23 @@
 
 A ZK-powered approach to Web3 asset discovery and identity abstraction that preserves user privacy while enabling seamless multi-chain interactions.
 
-## 🔥 What is Phil SCALE?
+## What is Phil SCALE?
 
 Phil SCALE revolutionizes Web3 identity by allowing users to create multiple privacy-preserving identities (represented as NFTs called "Phils") while keeping their primary wallet address completely private. Each Phil operates as an independent smart contract, enabling compartmentalized asset management and anonymous interactions across DeFi, NFTs, and gaming.
 
-## ✨ Key Features
+## Key Features
 
-- **🎭 Multiple Identities**: Create separate Phils for DeFi, gaming, NFTs, etc.
-- **🔒 Complete Privacy**: Your main wallet address never touches dApps
-- **🔍 ZK Asset Discovery**: Find all your assets across protocols without revealing ownership
-- **🌐 Cross-Chain Native**: Seamless operations across multiple blockchains
-- **🛡️ Community Verified**: Decentralized contract verification system
+- **Multiple Identities**: Create separate Phils for DeFi, gaming, NFTs, etc.
+- **Complete Privacy**: Your main wallet address never touches dApps
+- **ZK Asset Discovery**: Find all your assets across protocols without revealing ownership
+- **Cross-Chain Native**: Seamless operations across multiple blockchains
+- **Community Verified**: Decentralized contract verification system
 
-## 📚 Documentation
+## Documentation
 
-- [📖 Whitepaper](./docs/whitepaper.md) - Complete technical overview
-- [🚀 Getting Started](./docs/getting-started.md) - Quick start guide
-- [⚙️ Technical Specs](./docs/technical-specification.md) - Implementation details
+- [Whitepaper](./docs/whitepaper.md) - Complete technical overview
+- [Getting Started](./docs/getting-started.md) - Quick start guide
+- [Technical Specs](./docs/technical-specification.md) - Implementation details
 
 ## 🛠️ Repository Structure
 phil-scale-protocol/
@@ -30,7 +30,7 @@ phil-scale-protocol/
 ├── examples/         # Integration examples (coming soon)
 └── README.md         # You are here
 
-## 🚀 Quick Start
+## Quick Start
 
 *Coming soon - Protocol currently in development*
 
@@ -40,13 +40,13 @@ phil-scale-protocol/
 4. Create specialized identities for different activities
 5. Interact with dApps using your chosen Phil
 
-## 🏗️ Development Roadmap
+## Development Roadmap
 
 - **Phase 1** (Q4 2025): Core contracts, basic Phil creation
 - **Phase 2** (Q1 2026): ZK asset discovery, cross-chain execution  
 - **Phase 3** (Q2 2026): Advanced privacy features, ecosystem growth
 
-## 🤝 Contributing
+## Contributing
 
 This is an open-source project! We welcome contributions from:
 
@@ -56,11 +56,11 @@ This is an open-source project! We welcome contributions from:
 - Community members
 - Anyone passionate about Web3 privacy
 
-## 📄 License
+## License
 
 MIT License - See [LICENSE](./LICENSE) for details
 
-## 🔗 Links
+## Links
 
 - Website: *Coming soon*
 - Twitter: *Coming soon*  
